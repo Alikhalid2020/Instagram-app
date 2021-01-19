@@ -75,4 +75,4 @@ If you have any question or contributions, please email me at lanrakhaled@gmail.
 ## License 
 
 MIT <br>
-Copyright © by Khalid Ali
+Copyright © by Khalid Ali Gosor
