@@ -68,8 +68,7 @@ Open the application on your browser `127.0.0.1:8000`.
   
   
 ## Known Bugs  
-There are no known bugs 
-  
+some slight issues with like and comment but its better now.
 ## Contact Information   
 If you have any question or contributions, please email me at lanrakhaled@gmail.com
   
