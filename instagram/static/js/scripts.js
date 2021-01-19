@@ -1,7 +1,7 @@
 
   $(document).ready(function(){
     $(".im").mouseover(function(){
-      $("#overlay").show();
+      $("#overla").show();
     }).mouseout(function(){
       $("#overlay").hide();
     });
